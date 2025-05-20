@@ -99,21 +99,9 @@ namespace ExamApplication.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<long?>("AttemptId")
-                        .HasColumnType("bigint");
-
                     b.Property<string>("Fullname")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool?>("IsPass")
-                        .HasColumnType("bit");
-
-                    b.Property<float?>("Mark")
-                        .HasColumnType("real");
-
-                    b.Property<long?>("Quizid")
-                        .HasColumnType("bigint");
 
                     b.HasKey("UserId");
 

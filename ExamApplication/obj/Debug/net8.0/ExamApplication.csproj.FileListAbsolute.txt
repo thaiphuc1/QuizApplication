@@ -170,3 +170,4 @@ D:\Interview\ExamApplication\ExamApplication\bin\Debug\net8.0\FastEndpoints.dll
 D:\Interview\ExamApplication\ExamApplication\bin\Debug\net8.0\FastEndpoints.Attributes.dll
 D:\Interview\ExamApplication\ExamApplication\bin\Debug\net8.0\FastEndpoints.Messaging.Core.dll
 D:\Interview\ExamApplication\ExamApplication\bin\Debug\net8.0\FluentValidation.dll
+D:\Interview\ExamApplication\ExamApplication\obj\Debug\net8.0\ExamApplication.sourcelink.json

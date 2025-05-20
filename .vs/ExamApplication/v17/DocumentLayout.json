@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\Interview\\ExamApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\useranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\controllers\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\controllers\\userexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\controllers\\userexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\userdoexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\userdoexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\models\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|d:\\interview\\examapplication\\examapplication\\migrations\\20250520054710_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF76E4A9-F141-4FB9-83AF-6198686B93F3}|ExamApplication\\ExamApplication.csproj|solutionrelative:examapplication\\migrations\\20250520054710_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +58,113 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250520054710_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Migrations\\20250520054710_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Migrations\\20250520054710_InitialMigration.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Migrations\\20250520054710_InitialMigration.cs",
+              "RelativeToolTip": "ExamApplication\\Migrations\\20250520054710_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:47:11.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:46:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Quiz.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\Quiz.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Quiz.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:39:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserExamController.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Controllers\\UserExamController.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Controllers\\UserExamController.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Controllers\\UserExamController.cs",
+              "RelativeToolTip": "ExamApplication\\Controllers\\UserExamController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:20:16.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDoExam.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\UserDoExam.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\UserDoExam.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\UserDoExam.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\UserDoExam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:19:59.573Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserAnswer.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\UserAnswer.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\UserAnswer.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\UserAnswer.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\UserAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:19:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\Question.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Question.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:19:42.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "ExamApplication\\Models\\Entities\\Answer.cs",
+              "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Models\\Entities\\Answer.cs",
+              "RelativeToolTip": "ExamApplication\\Models\\Entities\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:19:37.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "QuizController.cs",
               "DocumentMoniker": "D:\\Interview\\ExamApplication\\ExamApplication\\Controllers\\QuizController.cs",
               "RelativeDocumentMoniker": "ExamApplication\\Controllers\\QuizController.cs",
               "ToolTip": "D:\\Interview\\ExamApplication\\ExamApplication\\Controllers\\QuizController.cs",
               "RelativeToolTip": "ExamApplication\\Controllers\\QuizController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:50:32.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T20:50:32.292Z"
             }
           ]
         }

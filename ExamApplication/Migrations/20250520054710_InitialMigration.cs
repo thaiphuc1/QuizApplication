@@ -31,11 +31,7 @@ namespace ExamApplication.Migrations
                 columns: table => new
                 {
                     UserId = table.Column<Guid>(type: "uniqueidentifier", nullable: false),
-                    Fullname = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Quizid = table.Column<long>(type: "bigint", nullable: true),
-                    AttemptId = table.Column<long>(type: "bigint", nullable: true),
-                    Mark = table.Column<float>(type: "real", nullable: true),
-                    IsPass = table.Column<bool>(type: "bit", nullable: true)
+                    Fullname = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

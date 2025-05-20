@@ -8,7 +8,7 @@ namespace ExamApplication.Models.Entities
         [Key]
         public long UserAnswerId { get; set; }
 
-        public long DoExamId { get; set; }  // Foreign Key
+        public long DoExamId { get; set; }  
         public UserDoExam UserDoExam { get; set; }
 
 

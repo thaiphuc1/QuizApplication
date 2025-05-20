@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ExamApplication.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250519203434_InitialMigration")]
+    [Migration("20250520054710_InitialMigration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
@@ -102,21 +102,9 @@ namespace ExamApplication.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uniqueidentifier");
 
-                    b.Property<long?>("AttemptId")
-                        .HasColumnType("bigint");
-
                     b.Property<string>("Fullname")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool?>("IsPass")
-                        .HasColumnType("bit");
-
-                    b.Property<float?>("Mark")
-                        .HasColumnType("real");
-
-                    b.Property<long?>("Quizid")
-                        .HasColumnType("bigint");
 
                     b.HasKey("UserId");
 
