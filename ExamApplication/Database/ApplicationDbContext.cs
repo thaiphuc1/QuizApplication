@@ -1,4 +1,5 @@
-﻿using ExamApplication.Models.Entities;
+﻿using ExamApplication.Database.SeedingData;
+using ExamApplication.Models.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace ExamApplication.Database
@@ -14,6 +15,17 @@ namespace ExamApplication.Database
         public DbSet<User> Users { get;set; }
         public DbSet<UserAnswer> UserAnswers { get; set; }
         public DbSet<UserDoExam> AttemptExam { get; set; }
+
+        //seeding data question, answer and quiz
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            var seed = new SeedData();
+            modelBuilder.ApplyConfiguration<Quiz>(seed);
+            modelBuilder.ApplyConfiguration<Question>(seed);
+            modelBuilder.ApplyConfiguration<Answer>(seed);
+        }
 
     }
 }
